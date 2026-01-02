@@ -107,6 +107,23 @@ Semua *endpoint* yang aman memerlukan token **Bearer JWT** di *header*.
 
 ---
 
+## 🤸 Tahapan Pembuatan
+
+Dalam repository ini, kami juga sertakan proses serta tahapan dalam pembuatannya, serta aspek yang terdapat di dalamnya apa saja.
+
+### Endpoint Utama
+
+| Kategori | Deskripsi |
+| :--- | :--- |
+| `/api/auth` | Pendaftaran & *Login* Pengguna. |
+| `/api/products` | Manajemen Inventaris & Produk. |
+| `/api/sales` | Pembuatan & Pelacakan Pesanan. |
+| `/api/users` | Pengelolaan Data Pengguna. |
+
+**Lihat dokumentasi lengkap di [vimedika.apidog.io](https://vimedika.apidog.io)**
+
+---
+
 ## 🛣️ Roadmap (Rencana Pengembangan)
 
 * Penambahan Laporan Stock Opaname.
