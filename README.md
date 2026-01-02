@@ -107,7 +107,7 @@ Semua *endpoint* yang aman memerlukan token **Bearer JWT** di *header*.
 
 ---
 
-## 🤸 Tahapan Pembuatan
+## 🛠️ Tahapan Pembuatan
 
 Dalam repository ini, kami juga sertakan proses serta tahapan dalam pembuatannya, serta aspek yang terdapat di dalamnya apa saja.
 
